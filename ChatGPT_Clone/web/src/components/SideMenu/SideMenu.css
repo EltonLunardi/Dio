@@ -1,11 +1,13 @@
 .sidemenu {
   width: 260px;
   padding: 10px;
+  /* border:1px solid white; */
   background-color: #202123;
 }
 
 .sidemenu-button {
   padding: 15px;
+  /* border:1px solid white; */
   border-radius: 5px;
   text-align: left;
   transition: ease 0.25 all;

@@ -1,13 +1,15 @@
 import React from "react";
-import "./SideMenu.css";
+import "./Sidemenu.css";
 
-export const SideMenu = () => {
+const SideMenu = () => {
   return (
     <aside className="sidemenu">
       <div className="sidemenu-button">
         <span>+</span>
-        Novo Chat
+        Novo chat
       </div>
     </aside>
   );
 };
+
+export default SideMenu;
