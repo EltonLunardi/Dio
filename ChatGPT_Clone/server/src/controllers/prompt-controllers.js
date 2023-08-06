@@ -16,7 +16,7 @@ module.exports = {
       return res.status(400).json({
         sucess: false,
         error: error.response
-          ? error.response
+          ? error.respons.data
           : "Tem um problema no server manin :/",
       });
     }
