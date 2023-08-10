@@ -1,0 +1,11 @@
+##Criação um DAO
+-Dar nome
+-Descrição da missão
+-Qual o tipo de entrega
+-Criação de um servidor do discord
+-Criação de uma conta do twitter
+-Convite de pessoas para participação
+-Lançamento de um token de governança
+-Criação de um mecanismo de financiamento
+-Configuração de um snapshot e outras ferramentas para votação e registro de contribuição dos membros
+-Criação de uma LLC
